@@ -1,0 +1,10 @@
+/.idea/
+/go_mic_project.iml
+cache_service/.idea
+cache_service/vendor
+frontend_api/.idea
+frontend_api/vendor
+payment_service/.idea
+payment_service/vendor
+shipping_service/.idea
+shipping_service/vendor
